@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnCanva</string>
+    <string name="title_activity_row_and_column">RowAndColumn</string>
+    <string name="title_activity_box">Box</string>
+    <string name="title_activity_text_example">TextExample</string>\
+    <string name="text">Do not allow anyone to enter your matter</string>
+</resources>
